@@ -33,8 +33,10 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 
 ## ⚡ GitHub Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleitesouza&hide=TeX&layout=compact&theme=synthwave)
+<div>
+  <a href="https://github.com/rodrigoleitesouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonvilarino&layout=compact&langs_count=7&theme=synthwave"/>
 
 
 
