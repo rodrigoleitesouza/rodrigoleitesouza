@@ -7,10 +7,12 @@
 No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnlogias dos ecossistemas citados.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoleitesouzadev/)](https://www.linkedin.com/in/rodrigoleitesouzadev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitesouzadev@gmail.com)](mailto:rodrigoleitesouzadev@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](phoneto:rodrigoleitesouzadev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitesouzadev@gmail.com)](mailto:rodrigoleitesouzadev@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521986715853)
 
-## 🚀💻 Tecnologias e Conhecimentos
+
+
+## 🚀💻 Tecnologias & Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
@@ -29,9 +31,12 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Estatísticas
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleitesouza&hide=TeX&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleitesouza&hide=TeX&layout=compact&theme=synthwave)
+
+
+
 
 
