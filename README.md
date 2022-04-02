@@ -1,13 +1,13 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rodrigoleitesouza" alt="rodrigoleitesouza" /></p>
+
+
+<h1 align = "justify"> Olá, Rodrigo aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<p align = "justify">Aceitei meu destino e irei completá-lo tornando-me Developer e estou em busca da minha 1ª oportunidade.</p>
+
+No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoleitesouzadev/)](https://www.linkedin.com/in/rodrigoleitesouzadev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitesouzadev@gmail.com)](mailto:rodrigoleitesouzadev@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521986715853)
-
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Rodrigo aqui!</h1>
-<p align = "justify">Aceitei meu destino e irei completá-lo tornando-me Developer e estou em busca da minha 1ª oportunidade.</p>
-
-No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
 
 ## 🚀 Tecnologias & Conhecimentos
 
@@ -34,8 +34,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
   <a href="https://github.com/rodrigoleitesouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleitesouza&layout=compact&langs_count=7&theme=synthwave"/>
-
-
-
-
-
+</div>
+  
+</br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rodrigoleitesouza" alt="rodrigoleitesouza" /></p>
