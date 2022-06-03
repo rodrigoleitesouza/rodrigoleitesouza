@@ -1,6 +1,6 @@
 
 
-<h1 align = "justify"> Olá, eu sou o Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1 align = "justify"> Olá, eu sou o Rodrigo! </h1> 
 <p align = "justify">Aceitei meu destino e irei completá-lo tornando-me Dev e estou em busca da minha 1ª oportunidade.</p>
 
 No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
