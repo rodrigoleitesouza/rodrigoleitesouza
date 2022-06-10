@@ -11,6 +11,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 
 ## 🚀 Tecnologias & Conhecimentos
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
