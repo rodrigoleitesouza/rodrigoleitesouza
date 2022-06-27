@@ -3,7 +3,7 @@
 <h1 align = "justify"> Olá, eu sou o Rodrigo! </h1> 
 <p align = "justify">Aceitei meu destino e irei completá-lo tornando-me Dev e estou em busca da minha 1ª oportunidade.</p>
 
-No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
+No momento ampliando meus conhecimentos em Python, Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoleitesouzadev/)](https://www.linkedin.com/in/rodrigoleitesouzadev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitesouzadev@gmail.com)](mailto:rodrigoleitesouzadev@gmail.com)
