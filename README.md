@@ -23,14 +23,6 @@ No momento ampliando meus conhecimentos em Python, Node.js, React.js, React Nati
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-## ⚡ GitHub Estatísticas
-
-<div>
-  <a href="https://github.com/rodrigoleitesouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoleitesouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoleitesouza&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
   
 </br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rodrigoleitesouza" alt="rodrigoleitesouza" /></p>
