@@ -3,7 +3,9 @@
 <h1 align = "justify"> Olá, eu sou o Rodrigo! </h1> 
 <p align = "justify">Entusiasta de tecnologia, lógica e números desde cedo, cresci imerso no ecossistema tecnológico.
 
-Nos últimos anos, tenho atuado como Cientista de Dados, principalmente na aplicação de machine learning e IA nos setores de aviação e mercado financeiro. Para isso, desenvolvi proficiência em Python e SQL, além de frameworks, bibliotecas e plataformas relacionadas ao tema, como Spark, Pandas, Scikit-Learn, Databricks, entre outros.</p>
+Atuo como Cientista de Dados especializado na interseção entre Machine Learning, Inteligência Artificial e problemas reais de negócio, com experiência nos setores de aviação comercial e bancário. Meu trabalho envolve o desenvolvimento de soluções de IA aplicadas — incluindo sistemas RAG, chatbots corporativos e document intelligence com LLMs — orientadas à tomada de decisão e eficiência operacional.
+
+Tenho domínio prático de Python, SQL e ambientes como Databricks e GCP, atuando de ponta a ponta: da exploração de dados e feature engineering à implantação e monitoramento de aplicações em produção.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoleitesouzadev/)](https://www.linkedin.com/in/rdg-souza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoleitesouzadev@gmail.com)](mailto:rodrigoleitesouzadev@gmail.com)
